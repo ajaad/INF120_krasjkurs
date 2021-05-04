@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Generator: Adobe Illustrator 21.1.0, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   version="1.1"
+   id="Layer_1"
+   x="0px"
+   y="0px"
+   viewBox="0 0 134.39999 48.099998"
+   xml:space="preserve"
+   sodipodi:docname="nito-logo-responsive-new.svg"
+   width="134.39999"
+   height="48.099998"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"><metadata
+   id="metadata23"><rdf:RDF><cc:Work
+       rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+         rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title>nito</dc:title></cc:Work></rdf:RDF></metadata><defs
+   id="defs21" /><sodipodi:namedview
+   pagecolor="#ffffff"
+   bordercolor="#666666"
+   borderopacity="1"
+   objecttolerance="10"
+   gridtolerance="10"
+   guidetolerance="10"
+   inkscape:pageopacity="0"
+   inkscape:pageshadow="2"
+   inkscape:window-width="1114"
+   inkscape:window-height="568"
+   id="namedview19"
+   showgrid="false"
+   fit-margin-top="0"
+   fit-margin-left="0"
+   fit-margin-right="0"
+   fit-margin-bottom="0"
+   inkscape:zoom="0.73056995"
+   inkscape:cx="195.73759"
+   inkscape:cy="23.5"
+   inkscape:window-x="2248"
+   inkscape:window-y="1542"
+   inkscape:window-maximized="0"
+   inkscape:current-layer="Layer_1" />
+<style
+   type="text/css"
+   id="style2">
+	.st0{fill:#78BE20;}
+</style>
+<title
+   id="title4">nito</title>
+<desc
+   id="desc6">Created with Sketch.</desc>
+<g
+   id="g16"
+   transform="translate(-2,0.1)">
+	<path
+   class="st0"
+   d="M 25,47.6 9.4,19.4 V 47.6 H 0 V 0.2 H 9.9 L 25.3,28.7 V 0.2 h 9.5 v 47.4 z"
+   id="path8"
+   inkscape:connector-curvature="0"
+   style="fill:#78be20" />
+	<path
+   class="st0"
+   d="M 43.8,47.6 V 0.2 h 9.6 v 47.4 z"
+   id="path10"
+   inkscape:connector-curvature="0"
+   style="fill:#78be20" />
+	<path
+   class="st0"
+   d="M 81.1,9.4 V 47.6 H 71.6 V 9.4 H 58.7 V 0.2 h 35.4 v 9.2 z"
+   id="path12"
+   inkscape:connector-curvature="0"
+   style="fill:#78be20" />
+	<path
+   class="st0"
+   d="m 133,40.7 c -1,1.4 -4.1,4.7 -5.8,5.8 -1.4,0.8 -3.3,1.5 -5.1,1.5 H 111 109.6 c -1.8,0 -3.8,-0.7 -5.1,-1.5 -1.8,-1 -4.9,-4.4 -5.8,-5.8 -1,-1.5 -1.4,-3.3 -1.4,-4.9 v -14 -9.7 c 0,-1.6 0.3,-3.4 1.4,-4.9 1,-1.4 4.1,-4.7 5.8,-5.8 1.4,-0.8 3.3,-1.5 5.1,-1.5 h 11.1 1.4 c 1.8,0 3.8,0.7 5.1,1.5 1.8,1 4.9,4.4 5.8,5.8 1,1.5 1.4,3.3 1.4,4.9 v 14 9.7 c 0,1.6 -0.3,3.4 -1.4,4.9 z m -8.2,-5.1 V 21.9 12.4 12.3 c -0.9,-1.2 -2.2,-2.6 -2.9,-3 h -0.2 -11.8 -0.1 c -0.7,0.4 -2.1,1.7 -3,3 v 0.1 13.7 9.5 0.1 c 0.9,1.2 2.2,2.6 2.9,3 h 0.2 11.8 0.1 c 0.8,-0.5 2.1,-1.7 3,-3.1 z"
+   id="path14"
+   inkscape:connector-curvature="0"
+   style="fill:#78be20" />
+</g>
+</svg>
